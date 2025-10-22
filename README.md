@@ -1,5 +1,12 @@
 ## Hi there 👋
-[https://kwork.ru/user/pyrazrab117}
+<details>
+  <summary>Kwork</summary>
+  https://kwork.ru/user/pyrazrab117
+</details>
+<details>
+  <summary>Telegram</summary>
+  https://telegram/danyastrong
+</details>
 <!--
 **daniilpy404/daniilpy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
