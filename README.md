@@ -5,7 +5,7 @@
 </details>
 <details>
   <summary>Telegram</summary>
-  https://telegram.com/danyastrong
+  https://telegram.org/danyastrong
 </details>
 <!--
 **daniilpy404/daniilpy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
