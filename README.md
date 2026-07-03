@@ -21,6 +21,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniilpy404&theme=tokyo-night" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniilpy404&show_icons=true&theme=tokyonight" />
+</p>
 
 
 <h1 align="center">👋 Привет, я Даниил</h1>
