@@ -32,7 +32,15 @@
 
 </p>
 
----
+## 🚀 Projects
+
+<p align="center">
+
+<a href="https://github.com/daniilpy404/Todo-List-Telegram-Bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daniilpy404&repo=Todo-List-Telegram-Bot&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ## 📊 GitHub Stats
 
