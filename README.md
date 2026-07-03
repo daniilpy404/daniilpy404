@@ -4,6 +4,10 @@
 
 <p align="center">
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilpy404&layout=compact&theme=tokyonight" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
