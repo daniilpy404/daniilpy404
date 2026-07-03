@@ -1,23 +1,30 @@
-## Hi there 👋
-<details>
-  <summary>Kwork</summary>
-  https://kwork.ru/user/pyrazrab117
-</details>
-<details>
-  <summary>Telegram</summary>
-  https://telegram.org/danyastrong
-</details>
-<!--
-**daniilpy404/daniilpy404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет, я Даниил
 
-Here are some ideas to get you started:
+💻 Python разработчик  
+🤖 Делаю Telegram-ботов  
+🎯 Цель: стать сильным backend разработчиком  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Технологии:
+- Python 🐍
+- SQLite 🗄
+- Git & GitHub 🔧
+- Aiogram 🤖
+
+---
+
+## 📊 Статистика:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilpy404&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Сейчас работаю над:
+- Telegram bot (ToDo list)
+- Учусь backend разработке
+
+---
+
+## 📫 Связь:
+Telegram: @your_username
