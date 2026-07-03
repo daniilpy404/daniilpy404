@@ -1,4 +1,6 @@
-![coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJnMjAzYWljeHloeDFhMndhbG5nM2pwZGhxYzhmZmp4OWo1YTgzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YUK4V4es4VSuelObAx/giphy.gif)
+<p align="center">
+  <img src="assets/coding.gif" width="400"/>
+</p>
 
 
 
