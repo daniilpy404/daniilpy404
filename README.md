@@ -28,3 +28,4 @@
 
 ## 📫 Связь:
 Telegram: @your_username
+![coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
