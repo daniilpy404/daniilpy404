@@ -5,35 +5,51 @@
 
 
 
+<h1 align="center">👋 Привет, я Даниил</h1>
 
-# 👋 Привет, я Даниил
-
-💻 Python разработчик  
-🤖 Делаю Telegram-ботов  
-🎯 Цель: стать сильным backend разработчиком  
-
----
-
-## 🚀 Технологии:
-- Python 🐍
-- SQLite 🗄
-- Git & GitHub 🔧
-- Aiogram 🤖
+<p align="center">
+  💻 Python разработчик | 🤖 Telegram-боты | 🚀 Учусь backend разработке
+</p>
 
 ---
 
-## 📊 Статистика:
+## 🧠 Обо мне
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilpy404&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Сейчас работаю над:
-- Telegram bot (ToDo list)
-- Учусь backend разработке
+- 🐍 Пишу на Python
+- 🤖 Создаю Telegram-ботов
+- 📚 Сейчас прокачиваю backend и Git
+- 🎯 Цель: стать сильным разработчиком и зарабатывать на коде
 
 ---
 
-## 📫 Связь:
-Telegram: @your_username
+## 🛠 Технологии
 
+<p>
+  Python • Aiogram • SQLite • Git • GitHub
+</p>
+
+---
+
+## 📊 GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniilpy404&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilpy404&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Сейчас работаю над
+
+- 📋 Todo Telegram Bot (основной проект)
+- ⚙️ Улучшение навыков Python
+- 🧱 Изучение структуры проектов
+
+---
+
+## 📫 Связь
+
+- Telegram: @your_username
