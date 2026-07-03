@@ -17,6 +17,9 @@
   <img src="gif.gif" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniilpy404&theme=tokyo-night" />
+</p>
 
 
 
